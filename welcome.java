@@ -1,6 +1,6 @@
 class welcome
 {
-public static void main(String args[]){
-print("Hello world java");
+public static void main(String args[])
+	System.out.println("Hello world java");
 }
 }
